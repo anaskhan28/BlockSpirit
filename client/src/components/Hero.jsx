@@ -13,7 +13,7 @@ const Hero = () => (
       <div>
         
         <div className='my-4 py-4 px-7 text-white bg-gradient-to-r from-cyan-500 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-cyan-300 dark:focus:ring-cyan-800 font-medium rounded-lg text-sm  text-center mr-2 mb-2  transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-[#2546bd] duration-300'>
-       <a href='https://blockspirit-market.vercel.app/' type='button'>Get Started</a>
+       <a href='https://blockspirit.hashnode.dev/how-to-install-set-up-metamask' type='button'>Get Started</a>
         </div>
       </div>
 
