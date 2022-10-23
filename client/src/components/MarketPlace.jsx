@@ -13,7 +13,7 @@ const MarketPlace = () => (
       <div className="gpt3__header-content__input">
         <input type="email" placeholder="Your Email Address" className='email'  />
         <div className='glow-on-hover'>
-       <a href='https://blockspirit-market.vercel.app/' type='button'>Get Started</a>
+       <a href='https://youtube.com' type='button'>Get Started</a>
         </div>
       </div>
 
