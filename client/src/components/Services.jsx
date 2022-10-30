@@ -46,7 +46,7 @@ const Services = () => (
         />
         <ServiceCard
           color="bg-[#696EFF]"
-          title="Vitual Coins"
+          title="Virtual Coins"
           icon={<RiCoinFill fontSize={21} className="text-white" />}
           subtitle="Experience the real market transactions by making one of it. Virtual Coins give you that power."
         />
